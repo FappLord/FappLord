@@ -60,7 +60,7 @@ When I'm not coding, you can find me diving into the world of gaming, exploring 
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/mysql-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
   </a>
-    <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
+  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" alt="Microsoft SQL Server"/>
   </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
@@ -72,8 +72,8 @@ When I'm not coding, you can find me diving into the world of gaming, exploring 
 
 ### 🚀 Notable Projects
 
-| Project                                                                                                         | Description                                                                                          | Tech Used                                                | Status                |
-| --------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------- | -------------------------------------------------------- | --------------------- |
+| Project | Description | Tech Used | Status |
+| ------- | ----------- | --------- | ------ |
 | *[Proactive Air Quality Forecasting and Health Alert System for Melbourne](https://github.com/SpeedyLabX/melbourne-air-quality-forecast)* | A research project to predict air quality and provide proactive health warnings using deep learning time-series models. | Python, TensorFlow, Deep Learning, Time Series Analysis | Research & Development |
 
 ---
@@ -93,17 +93,14 @@ When I'm not coding, you can find me diving into the world of gaming, exploring 
 ### 📬 Connect with Me
 
 <p align="center">
-  <!-- Note: Replace the "#" with your actual links -->
-  <a href="(placeholder_linkedin_url)" target="_blank">
+  <a href="https://www.linkedin.com/in/phat-vo-3524ab345/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn"/>
   </a>
-  <a href="mailto:(placeholder_email)" target="_blank">
+  <a href="mailto:votanphata2.c3hn2022@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
 
-<div align="center">
-  
-*Feel free to connect, collaborate, or just say hi!*
-
-</div>
+<p align="center">
+  <em>Feel free to connect, collaborate, or just say hi!</em>
+</p>
