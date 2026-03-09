@@ -70,24 +70,102 @@ When I'm not coding, you can find me diving into the world of gaming, exploring 
 
 ---
 
-### 🚀 Notable Projects
-
-| Project | Description | Tech Used | Status |
-| ------- | ----------- | --------- | ------ |
-| *[Proactive Air Quality Forecasting and Health Alert System for Melbourne](https://github.com/SpeedyLabX/melbourne-air-quality-forecast)* | A research project to predict air quality and provide proactive health warnings using deep learning time-series models. | Python, TensorFlow, Deep Learning, Time Series Analysis | Research & Development |
-
----
-
-### 📊 My GitHub Stats
+## 🔬 Featured Research
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=FappLord&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=FappLord&theme=tokyonight&hide_border=false)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FappLord&theme=tokyonight&hide_border=false&layout=compact)
+<table>
+<tr>
+<td align="center" width="33%">
+<img src="https://img.icons8.com/clouds/100/000000/air-quality.png" width="80"/>
+
+### **SmokeNet**
+
+**Air Quality Forecasting**
+
+```python
+metrics = {
+  "MAE": 0.7470,
+  "R²": 0.9545,
+  "improvement": "35.9% vs XGBoost"
+}
+```
+
+Transformer-based system with SHAP explainability for public health warnings
+
+`PyTorch` `Transformer` `SHAP` `XAI`
+
+[![Paper](https://img.shields.io/badge/DOI-10.1007/978--981--95--4969--6__34-blue?style=flat-square&logo=doi)](https://doi.org/10.1007/978-981-95-4969-6_34)
+[![Q2](https://img.shields.io/badge/Springer-LNAI_Q2-success?style=flat-square)](https://doi.org/10.1007/978-981-95-4969-6_34)
+
+**AJCAI 2025** • *First Author*
+
+</td>
+<td align="center" width="33%">
+<img src="https://img.icons8.com/clouds/100/000000/emotion.png" width="80"/>
+
+### **MERR-GAT**
+
+**Emotion Recognition**
+
+```python
+architecture = {
+  "audio": "Wav2Vec2",
+  "text": "RoBERTa",
+  "fusion": "GATv2"
+}
+```
+
+Graph-based multimodal fusion with intrinsic attention explainability
+
+`Wav2Vec2` `RoBERTa` `GATv2` `XAI`
+
+[![Status](https://img.shields.io/badge/Status-In_Progress-yellow?style=flat-square)](https://github.com/SpeedyLabX)
+[![Code](https://img.shields.io/badge/GitHub-SpeedyLabX-181717?style=flat-square&logo=github)](https://github.com/SpeedyLabX)
+
+**IEMOCAP • RAVDESS • MELD**
+
+
+</td>
+</tr>
+</table>
 
 </div>
 
+<br/>
+
+## 📝 Publications
+
+```bibtex
+@inproceedings{le2025smokenet,
+  title     = {Proactive Air Quality Forecasting and Health Alert System for Melbourne},
+  author    = {Gia-Hung Nguyen Le and others},
+  booktitle = {AI 2025: Advances in Artificial Intelligence},
+  series    = {Lecture Notes in Artificial Intelligence (LNAI)},
+  publisher = {Springer Nature Singapore},
+  year      = {2025},
+  note      = {Q2 (SJR 2024)}
+}
+```
+
+**[📄 Full Paper](https://doi.org/10.1007/978-981-95-4969-6_34)** 
+
+<br/>
+
+## 📊 GitHub Activity
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=hei1sme&theme=tokyonight&hide_border=true&border_radius=10&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api?username=hei1sme&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&include_all_commits=true&count_private=true" alt="GitHub Stats" height="180"/>
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=hei1sme&theme=tokyo-night&hide_border=true&border_radius=10&area=true&custom_title=Contribution%20Graph" alt="Activity Graph" width="90%"/>
+
+</div>
+
+<br/>
 ---
 
 ### 📬 Connect with Me
